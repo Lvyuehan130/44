@@ -1,0 +1,2 @@
+streamlit==23.1.2 
+surprise==1.4.3
